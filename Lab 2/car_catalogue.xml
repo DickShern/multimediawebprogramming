@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CAR_CATALOGUE>
+  <ITEM>
+    <NAME>2017 Volkswagen Polo 1.6 </NAME>
+    <PRICE>RM 67,888</PRICE>
+    <DESCRIPTION>FULL LOAN !!! LOW INTEREST RATE!!! FOR THIS MONTH ONLY !!! NEW MODEL POLO HB 1.6 MPI ( NEW RADIO)</DESCRIPTION>
+    <SELLER>ZAHARRUDIN JOHARI</SELLER>
+    <DETAILS>
+      <Distance></Distance>
+      <Litre>1.6L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>Hatchback </Type>
+      <Location>Selangor</Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_001.jpg</img1>
+      <img2>Cars/pic_002.jpg</img2>
+      <img3>Cars/pic_003.jpg</img3>
+      <img4>Cars/pic_004.jpg</img4>
+    </IMAGES>
+  </ITEM>
+  <ITEM>
+    <NAME>2017 Toyota Hilux 2.4 G 4x4 </NAME>
+    <PRICE>RM 106,000</PRICE>
+    <DESCRIPTION>HIGH CASH REBATE *HIGH TRADE IN VALUE *FREE ORIGINAL TRD ACCESSORIES PART *FREE EMERGENCY KIT *FREE PORTABLE TYRE </DESCRIPTION>
+    <SELLER>Woo Chuen Voon </SELLER>
+    <DETAILS>
+      <Distance></Distance>
+      <Litre>2.4L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>Pickup </Type>
+      <Location>Kuala Lumpur </Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_005.jpg</img1>
+      <img2>Cars/pic_006.jpg</img2>
+      <img3>Cars/pic_007.jpg</img3>
+      <img4>Cars/pic_008.jpg</img4>
+    </IMAGES>
+  </ITEM>
+  <ITEM>
+    <NAME>2017 Toyota Vios 1.5 J </NAME>
+    <PRICE> RM 75,000 </PRICE>
+    <DESCRIPTION>CASH REBATE *HIGH TRADE IN VALUE *FREE 3 YEAR SERVICE *FREE EMERGENCY KIT *FREE. PORTABLE TYRE PUMP</DESCRIPTION>
+    <SELLER>Woo Chuen Voon</SELLER>
+    <DETAILS>
+      <Distance></Distance>
+      <Litre>1.5L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>Sedan </Type>
+      <Location>Kuala Lumpur </Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_009.jpg</img1>
+      <img2>Cars/pic_010.jpg</img2>
+      <img3>Cars/pic_011.jpg</img3>
+      <img4>Cars/pic_012.jpg</img4>
+    </IMAGES>
+  </ITEM>
+  <ITEM>
+    <NAME>2013 Toyota Land Cruiser 4.5 Diesel </NAME>
+    <PRICE> RM 438,000 </PRICE>
+    <DESCRIPTION>TOYOTA LANDCRUISER 4.5L D4D UNREG 2013 UK SPECS PRICE INCLUDES GST * V8 D-4D * POWER SUNROOF * COOLER BOX *</DESCRIPTION>
+    <SELLER>Fuad Samsuddin</SELLER>
+    <DETAILS>
+      <Distance>50,000 - 54,999 km</Distance>
+      <Litre>4.5L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>SUV </Type>
+      <Location>Kuala Lumpur</Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_013.jpg</img1>
+      <img2>Cars/pic_014.jpg</img2>
+      <img3>Cars/pic_015.jpg</img3>
+      <img4>Cars/pic_016.jpg</img4>
+    </IMAGES>
+  </ITEM>
+  <ITEM>
+    <NAME>2013 Toyota Estima 2.4 Aeras Premium ** Electronic Seats / Digital Aircond Control **</NAME>
+    <PRICE>RM 173,000</PRICE>
+    <DESCRIPTION>Toyota Estima 2.4 Aeras Premium High Spec - Year 2013 - Unregister - Japan Premium Selected Car - Grade A Conditio</DESCRIPTION>
+    <SELLER>Boon Ping</SELLER>
+    <DETAILS>
+      <Distance>15,000 - 19,999 km</Distance>
+      <Litre>2,4L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>MPV </Type>
+      <Location>Kuala Lumpur</Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_017.jpg</img1>
+      <img2>Cars/pic_018.jpg</img2>
+      <img3>Cars/pic_019.jpg</img3>
+      <img4>Cars/pic_020.jpg</img4>
+    </IMAGES>
+  </ITEM>
+  <ITEM>
+    <NAME>2013 Honda Odyssey 2.4 M-Aero High Spec ** Smart Keyless Go ** BEST OFFER </NAME>
+    <PRICE> RM 132,000 </PRICE>
+    <DESCRIPTION>Honda Odyssey 2.4 M-Aero High Spec - Year 2013 - Unregister - Japan Premium Selected Car - Grade A Condition</DESCRIPTION>
+    <SELLER>Boon Ping</SELLER>
+    <DETAILS>
+      <Distance>10,000 - 14,999 km</Distance>
+      <Litre>2,4L</Litre>
+      <Gear>Automatic</Gear>
+      <Type>MPV </Type>
+      <Location>Kuala Lumpur</Location>
+    </DETAILS>
+    <IMAGES>
+      <img1>Cars/pic_021.jpg</img1>
+      <img2>Cars/pic_022.jpg</img2>
+      <img3>Cars/pic_023.jpg</img3>
+      <img4>Cars/pic_024.jpg</img4>
+    </IMAGES>
+  </ITEM>
+</CAR_CATALOGUE>
